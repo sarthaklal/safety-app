@@ -5,9 +5,9 @@ import 'package:flutter/material.dart';
 
 Color primaryColor= Color(0xfffc3b77);
 
-const GEMINI_API_KEY = "AIzaSyDUD-1thbtkC3eU8c1oiOZTkLFTCCfKiYY";
+const GEMINI_API_KEY = "YOUR_API_KEY";
 
-const geocodingApi = 'AIzaSyBX31NDa7Lxl34X66gBIWDu6nG16Ji7vxc';
+const geocodingApi = 'YOUR_API_KEY';
 
 
 void goTo(BuildContext context, Widget nextScreen)
